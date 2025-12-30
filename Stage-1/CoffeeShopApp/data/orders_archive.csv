@@ -1,0 +1,10 @@
+OD001,2025-03-02 16:24:20,CS01,FOD202:Chicken Wrap:Food:Description:1:5.50;BEV103:Cappuccino:Beverage:Description:3:3.00,11.60,COMPLETED
+OD002,2025-03-02 16:28:36,CS01,BEV103:Cappuccino:Beverage:Description:1:3.00;BEV104:Mocha:Beverage:Description:1:4.00;FOD203:Muffin:Food:Description:1:2.00;FOD205:Croissant:Food:Description:1:3.75,9.56,COMPLETED
+OD001,2025-03-03 22:56:22,CS01,BEV107:Hot Chocolate:Beverage:Description:1:3.25;BEV104:Mocha:Beverage:Description:1:4.00;FOD203:Muffin:Food:Description:1:2.00,6.94,COMPLETED
+OD001,2025-03-04 20:01:26,CS01,BEV101:Latte:Beverage:Description:1:3.50,2.80,COMPLETED
+ORDER101,2025-03-05 14:08:47,CS01,BEV107:Hot Chocolate:Beverage:Description:1:3.25;BEV106:Chai Latte:Beverage:Description:1:3.50,5.40,COMPLETED
+ORDER102,2025-03-05 14:10:09,CS01,BEV104:Mocha:Beverage:Description:1:4.00;BEV107:Hot Chocolate:Beverage:Description:1:3.25,5.80,COMPLETED
+ORDER104,2025-03-05 15:41:05,CS01,BEV101:Latte:Beverage:Description:2:3.50;BEV102:Americano:Beverage:Description:1:2.50;BEV105:Flat White:Beverage:Description:1:3.75;BEV107:Hot Chocolate:Beverage:Description:1:3.25;BEV103:Cappuccino:Beverage:Description:1:3.00,15.60,COMPLETED
+ORDER105,2025-03-05 19:07:54,CS01,FOD203:Muffin:Food:Description:100:2.00;OTH306:Tea Sampler:Others:Description:3:10.50,185.20,COMPLETED
+ORDER106,2025-03-05 19:34:19,CS01,BEV102:Americano:Beverage:Description:1:2.50;BEV103:Cappuccino:Beverage:Description:13:3.00,33.20,COMPLETED
+ORDER107,2025-03-06 00:33:00,CS01,FOD203:Muffin:Food:Description:5:2.00,8.00,COMPLETED

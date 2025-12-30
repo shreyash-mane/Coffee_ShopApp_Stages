@@ -1,0 +1,2 @@
+OrderID,DateCreated,CustomerID,MenuItems,SubTotal,Status
+ORDER108,2025-03-06 00:33:28,CS01,FOD204:Bagel:Food:Description:1:3.50;FOD208:Chocolate Chip Cookie:Food:Description:1:2.25,4.60,PENDING
