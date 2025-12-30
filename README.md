@@ -1,11 +1,11 @@
 HERIOT WATT UNIVERSITY – **GROUP COURSEWORK**
 
 **Group Members:**
-1. Mahenge, Ima – Group Leader <iem4000@hw.ac.uk>
-2. Ishfaq, Junaid – <ji4001@hw.ac.uk>
-3. Mane, Shreyash - <sm4044@hw.ac.uk>
-4. Alshehri, Aedh – <aa4105@hw.ac.uk>
-5. Kazi, adil – <mk4029@hw.ac.uk>
+1. Mahenge, Ima 
+2. Ishfaq, Junaid 
+3. Mane, Shreyash
+4. Alshehri, Aedh 
+5. Kazi, adil 
 
 **Project Structure**
 
